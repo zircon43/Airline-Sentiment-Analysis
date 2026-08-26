@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+transformers
+torch
+bertopic
+streamlit
+matplotlib
+plotly
+seaborn
+tqdm
